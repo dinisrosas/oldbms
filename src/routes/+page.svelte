@@ -1,6 +1,5 @@
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Buy Monopoly Stickers Marketplace</title>
 </svelte:head>
 
 <section>
